@@ -43,7 +43,7 @@ function Home() {
   return (
     <main className='main-container'>
         <div className='main-title'>
-            <h2 className='text-2xl font-bold'>Hi there , Mr.Manish Chakraborty </h2>
+            <h2 className='text-2xl font-bold'>Hi there </h2>
         </div>
 
         <div className='main-cards'>
