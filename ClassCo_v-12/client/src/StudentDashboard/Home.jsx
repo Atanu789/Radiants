@@ -18,7 +18,7 @@ function Home() {
   return (
     <main className="main-container dark-theme">
       <div className="main-title dark-bg">
-        <h2 className="text-2xl font-bold text-white">Hi there, Manish Chakraborty</h2>
+        <h2 className="text-2xl font-bold text-white">Hi there </h2>
       </div>
 
       <div className="main-cards">
